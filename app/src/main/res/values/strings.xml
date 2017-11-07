@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="family">فامیلی خود را وارد کنید</string>
+    <string name="tell">شماره خود را وارد کنید</string>
+</resources>
